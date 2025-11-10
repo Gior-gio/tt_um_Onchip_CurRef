@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Current Reference Generator, four different current outputs (10uA and 20uA), needs a reference voltage and an external resistance.
 
 ## How to test
 
-Explain how to use your project
+Connect a voltage reference (1.2V) with the external resistor (240 kilo ohms) from Vres to ground.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+- External Resistance (240 kilo ohms)
+- Voltage Reference (1.2V)
+- DC Supply Source
